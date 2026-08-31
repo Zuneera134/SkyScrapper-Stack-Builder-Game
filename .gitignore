@@ -1,0 +1,23 @@
+# Compiled output
+build/
+out/
+dist/
+
+# NetBeans private/auto-generated
+**/nbproject/private/
+**/nbproject/build/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Duplicate nested repo
+/SkyScrapper Stack Builder Game/
